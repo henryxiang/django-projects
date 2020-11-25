@@ -9,6 +9,7 @@ This is a Django tutorial that comes from the official [Django documentation]
 ./init.sh
 source venv/bin/activate
 which python
+which django-admin
 python -m django --version
 ```
 
